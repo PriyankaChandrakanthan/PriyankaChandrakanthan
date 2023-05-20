@@ -2,7 +2,7 @@
 
 ## This is a small intro about me
 
-- 👋 Hi, I’m Priyanka Chandrakanthan
+- 👋 Hi, I’m Priyanka Chandrakanthan.
 - 👩🏾‍💻 I'm a Computer Science Undergraduate and currently in my 1st year.
 - 👀 I’m interested in **frontend development**, and love to create beautiful and performant products with delightful user interfaces.
 - 💞️ I’m looking to collaborate on small projects to improve my skills step by step.
